@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Self-Service">08771d0cc0a8016401f604303b94b999</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>test</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>0</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>x_snc_createnotes_test.do</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-09 08:25:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c60b93312f5401104e0249e72799b655</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_app_module_c60b93312f5401104e0249e72799b655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-09 08:58:09</sys_updated_on>
+        <timeline_page/>
+        <title>test</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>1b1e1eb6dbf15f088264f70fbf9619dd</instance_id>
+        <instance_name>dev58096</instance_name>
+        <name>sys_app_module_c60b93312f5401104e0249e72799b655</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Self-Service">08771d0cc0a8016401f604303b94b999</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>test</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>0</order><override_menu_roles>false</override_menu_roles><query>x_snc_createnotes_test.do</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-09 08:25:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c60b93312f5401104e0249e72799b655</sys_id><sys_mod_count>10</sys_mod_count><sys_name>test</sys_name><sys_overrides/><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sys_app_module_c60b93312f5401104e0249e72799b655</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-09 08:58:09</sys_updated_on><timeline_page/><title>test</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1994796390</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>841e46352f5001104e0249e72799b64a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-09 08:58:09</sys_created_on>
+        <sys_id>1292a3b52f5401104e0249e72799b6c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d9e6a0b420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-09 08:58:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1a92a3b5a8540110edb5bbd0b9e910c2</update_guid>
+        <update_guid_history>1a92a3b5a8540110edb5bbd0b9e910c2:-1994796390,4972a7b56754011034d5c0e4945bc42e:917346931,4c62a375a954011072ed0e4c74581757:-1994796390,b3122b75555401109ac7d064245beffe:917346931,7e61eb3532540110f4ccf45df390fc25:-1922357028,10bf133509540110473028b874079556:-1994796390,270f13b1c4540110960ee1b9ff7ab00d:373048841,66db5b319f5401103f07c9cf6156d2c1:-1994796390,7d6b97316e540110aa2cba58b7e366e1:1611735340,534bd73180540110caeea9bfa135d601:1204689649,f12b97318d540110c2bfe91e97e9061f:1319800023</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="test">957367f52f5401104e0249e72799b6ea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-09 09:01:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>08240357102043f08b023cfd5146a810</sys_id>
+        <sys_metadata>c60b93312f5401104e0249e72799b655</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sys_app_module_c60b93312f5401104e0249e72799b655</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c60b93312f5401104e0249e72799b655">1292a3b52f5401104e0249e72799b6c3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-09 09:01:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
